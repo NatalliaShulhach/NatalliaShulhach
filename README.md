@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NatalliaShulhach
+- 👋 Hi
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning redux and unit tests
 - 💞️ I want to collaborate on frontend development
